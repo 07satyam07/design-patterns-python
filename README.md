@@ -66,7 +66,13 @@ The Prototype Pattern is a creational design pattern that allows you to create n
 
 The Facade Pattern is a structural design pattern that provides a simplified interface to a complex system of classes, libraries, or subsystems. It encapsulates a set of interfaces in a higher-level interface, making it easier to use and understand.
 
-[Facade Patterb](./facade_pattern)
+[Facade Patter](./facade_pattern)
+
+###Adapter Pattern
+
+The Adapter Pattern is a structural design pattern that allows incompatible interfaces to work together. It acts as a bridge between two incompatible interfaces by providing a wrapper or intermediary class that translates the interface of one class into another interface that a client expects.
+
+[Adapter Pattern](./adapter_pattern)
 
 ## Usage
 
@@ -81,3 +87,4 @@ python ./singelton_pattern/main.py
 python ./builder_pattern/main.py
 python ./prototype_pattern/main.py
 python ./facade_pattern/main.py
+python ./adapter_pattern/main.py
