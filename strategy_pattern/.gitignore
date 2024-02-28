@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+dist/
+eggs/
+*.egg-info/
+.venv/
+.venv3/
+.pytest_cache/
+.coverage
+.tox/
+.env/
+.env.local
+.idea/
+.vscode/
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pipenv
+# According to Pipenv documentation, use this:
+# PIPENV_IGNORE_VIRTUALENVS=1
+# Or for older versions:
+# .venv/
+# Also include .env if you're using the dotenv package for managing environment variables
