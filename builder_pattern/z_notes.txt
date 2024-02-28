@@ -1,0 +1,3 @@
+1. If you need to call same class again and again based on request till all requests are done  then builder patten is used .
+2. For example you need to create a pizza , with multiple toppings and crust . You will give the request multiple request sequentially
+   till the customer says done . After done is clicked pizza object is returned .

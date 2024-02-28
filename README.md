@@ -47,7 +47,14 @@ The Proxy Pattern is a structural design pattern that provides a surrogate or pl
 
 The Singleton Pattern is a creational design pattern that ensures a class has only one instance and provides a global point of access to that instance. It is commonly used when exactly one object is needed to coordinate actions across the system.
 
-[Singelton Patern](./singelton_pattern)
+[Singelton Pattern](./singelton_pattern)
+
+
+### Builder Patern 
+
+The Builder Pattern is a creational design pattern that separates the construction of a complex object from its representation, allowing the same construction process to create different representations. It aims to solve the problem of telescoping constructor anti-pattern where the number of constructor parameters becomes excessive.
+
+[Builder Pattern](./builder_pattern)
 
 ## Usage
 
@@ -58,4 +65,5 @@ python ./strategy_pattern/main.py
 python ./observer_pattern/main.py
 python ./factory_pattern/main.py
 python ./proxy_pattern/main.py
-python ./singelton/main.py
+python ./singelton_pattern/main.py
+python ./builder_pattern/main.py
