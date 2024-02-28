@@ -1,0 +1,5 @@
+1. It can be imagined as a parser class.
+2. For example you are using an external lib with v1.0
+3. If the library changed to v1.1 then input parameters might change .
+4. Instead of making changes everywhere , add a adapter interface .
+5. The adapter interface can parse the format accorfing to latest version .
