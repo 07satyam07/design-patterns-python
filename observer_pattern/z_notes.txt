@@ -1,0 +1,3 @@
+1. This design is kind of pup-sub . 
+2. There is a central Message class to hold the messages .
+3. Subscriber utils add messages from publisher and also updates the messages of Subscriber.

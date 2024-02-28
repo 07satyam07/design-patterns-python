@@ -29,3 +29,18 @@ To run the examples, simply execute each Python file using a Python interpreter.
 
 ```bash
 python ./strategy_pattern/main.py
+
+
+### 2. Observer Pattern
+
+The Observer Pattern is a behavioral design pattern where an object, known as the subject, maintains a list of its dependents, called observers, and notifies them of any changes in its state, usually by calling one of their methods. This allows for a loosely coupled system where changes in one object can trigger actions in other objects without them being directly coupled.
+
+[Example Code](./observer_pattern)
+
+## Usage
+
+To run the examples, simply execute each Python file using a Python interpreter.
+
+```bash
+python ./observer_pattern/main.py
+
