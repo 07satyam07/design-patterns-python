@@ -1,0 +1,5 @@
+1. There are differnt algorithms you have for sorting . 
+2. It allows to pick which soritng algorithms you want to use.
+3. One super class is created with abstraction 
+4. All child class inherit it  
+5. main.py will run on the basis of which algorithms is required for sorting .
