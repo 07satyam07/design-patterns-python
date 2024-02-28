@@ -43,6 +43,12 @@ The Proxy Pattern is a structural design pattern that provides a surrogate or pl
 [Proxy Pattern](./proxy_pattern)
 
 
+### Singelton Pattern
+
+The Singleton Pattern is a creational design pattern that ensures a class has only one instance and provides a global point of access to that instance. It is commonly used when exactly one object is needed to coordinate actions across the system.
+
+[Singelton Patern](./singelton_pattern)
+
 ## Usage
 
 To run the examples, simply execute each Python file using a Python interpreter.
@@ -52,3 +58,4 @@ python ./strategy_pattern/main.py
 python ./observer_pattern/main.py
 python ./factory_pattern/main.py
 python ./proxy_pattern/main.py
+python ./singelton/main.py
