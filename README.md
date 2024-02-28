@@ -22,13 +22,19 @@ Design patterns are reusable solutions to commonly occurring problems in softwar
 
 The Strategy Pattern is a behavioral design pattern that enables an algorithm's behavior to be selected at runtime. It defines a family of algorithms, encapsulates each one, and makes them interchangeable. This pattern allows the algorithm to vary independently of the clients that use it, promoting flexibility and extensibility.
 
-[Example Code](./strategy_pattern)
+[Strategy Pattern](./strategy_pattern)
 
 ### 2. Observer Pattern
 
 The Observer Pattern is a behavioral design pattern where an object, known as the subject, maintains a list of its dependents, called observers, and notifies them of any changes in its state, usually by calling one of their methods. This allows for a loosely coupled system where changes in one object can trigger actions in other objects without them being directly coupled.
 
-[Example Code](./observer_pattern)
+[Observer Pattern](./observer_pattern)
+
+### 3. Factory Pattern
+
+The Factory Pattern is a creational design pattern used to create objects without specifying the exact class of object that will be created. It provides a way to delegate the instantiation logic to child classes.
+
+[Factory Pattern](./factory_pattern)
 
 ## Usage
 
@@ -37,3 +43,4 @@ To run the examples, simply execute each Python file using a Python interpreter.
 ```bash
 python ./strategy_pattern/main.py
 python ./observer_pattern/main.py
+python ./factory_pattern/main.py

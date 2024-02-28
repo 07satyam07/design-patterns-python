@@ -1,0 +1,5 @@
+1. For example you are owner of TATA.
+2. You have multiple cars .
+3. All cars have common details (fueltype,cartype,mileage)
+4. You need to create each car object and get the details individually 
+5. For this factory pattern is used .
