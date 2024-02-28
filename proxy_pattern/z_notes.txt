@@ -1,0 +1,2 @@
+1. Its nothing but all the calls should go through proxy .
+2. This helps in adding caching , logging etc to this class .

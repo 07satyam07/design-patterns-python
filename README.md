@@ -36,6 +36,13 @@ The Factory Pattern is a creational design pattern used to create objects withou
 
 [Factory Pattern](./factory_pattern)
 
+### Proxy Pattern
+
+The Proxy Pattern is a structural design pattern that provides a surrogate or placeholder for another object to control access to it. It allows you to create an intermediary that acts as an interface to another resource, such as a network connection, a large object in memory, or a complex computation. The proxy controls access to the original object, allowing you to perform additional tasks before or after accessing it, such as logging, caching, or authentication.
+
+[Proxy Pattern](./proxy_pattern)
+
+
 ## Usage
 
 To run the examples, simply execute each Python file using a Python interpreter.
@@ -44,3 +51,4 @@ To run the examples, simply execute each Python file using a Python interpreter.
 python ./strategy_pattern/main.py
 python ./observer_pattern/main.py
 python ./factory_pattern/main.py
+python ./proxy_pattern/main.py
