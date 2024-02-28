@@ -1,0 +1,2 @@
+1. If you need to create same object with same configuration again and again then this pattern is used .
+2. For example you design a game . And game needs 1000 archers . Instead of createing archer object again and again, use this pattern .
