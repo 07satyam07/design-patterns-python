@@ -1,0 +1,4 @@
+1. For example you need to prepare a coffee at restaurant and you need to calculate the cost.
+2. For simple coffee one can easily return default value .
+3. But for custom coffee (milk,sugar etc ) is added . So the cost changes .
+4. To caclulate the cost dynamically this pattern is used .
