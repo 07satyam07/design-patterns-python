@@ -33,6 +33,7 @@ build/
 
 # pyenv
 .python-version
+venv/
 
 # pipenv
 # According to Pipenv documentation, use this:

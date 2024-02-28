@@ -1,0 +1,3 @@
+1. Facade pattern provides an interface to call other classes at one place .
+2. For example dominoes have multiple systems . (order , view  , build pizza)
+2. Facade class will keep all operations at one place and all transactions will happen from here .
